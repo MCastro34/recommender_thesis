@@ -1,0 +1,618 @@
+{
+  "modalHotspots": [
+    {
+      "yaw": -0.98,
+      "pitch": 0.12,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "TSS6",
+      "description": "The TSS6 all stainless steel thermostatic steam traps and air vents are specifically designed for use in reactors, sterilizers and distribution lines in clean and pure steam systems. Their small size makes them ideal for use with a wide variety of these equipment.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "TSS6/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/212/Files/6-15-e-tss6-thermostatic-clean-steam-trap-dn-15-40-bpe-din-iso.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "mainFeatures": "Main Features",
+        "features": [
+          { "feat": "Sizes", "desc": "1/2” to 11/2” – DN 08 to DN 25" },
+          {
+            "feat": "Connections",
+            "desc": "ASME BPE, DIN and ISO clamp ferrules or tube weld (ETO) ends"
+          },
+          { "feat": "PMO", "desc": "6 bar" },
+          { "feat": "TMO", "desc": "165 ºC" },
+          { "feat": "Flow rate capacity", "desc": "Up to 1682 kg/h" }
+        ]
+      }
+    },
+    {
+      "yaw": -0.61,
+      "pitch": 0.19,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "P130L",
+      "description": "The ADCA P130L low flow series direct acting, spring-loaded diaphragm sensing pressure reducing valves are designed for use with clean air, oxygen and other gases or liquids compatible with the construction materials and valve design. Specifically designed for the high purity gas systems found in the pharmaceutical, cosmetic, fine chemical and food & beverage processes. The valve is available in a dome loaded version.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "P130L/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/114/Files/6-25a-e-p130l-sanitary-pressure-reducing-valve-dn-15-20-bpe-din-iso.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          { "feat": "Sizes", "desc": "1/2” to 3/4” – DN 08 to DN 20" },
+          {
+            "feat": "Connections",
+            "desc": "ASME BPE, DIN and ISO clamp ferrules or tube weld (ETO) ends"
+          },
+          { "feat": "Max. Allowable pressure", "desc": "-" },
+          { "feat": "Max. Upstream pressure", "desc": "16 bar" },
+          { "feat": "Flow rate coefficients", "desc": "Kvs 0,06 to 0,25" },
+          { "feat": "Regulating range", "desc": "0,2 to 8 bar" }
+        ]
+      }
+    },
+    {
+      "yaw": -0.72,
+      "pitch": 0.07,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "P130K",
+      "description": "The ADCA P130K series direct acting, spring-loaded diaphragm sensing, balanced plug pressure reducing valves are designed for use with clean air, oxygen and other gases or liquids compatible with the construction materials and valve design. Specifically designed for the high purity gas systems found in the pharmaceutical, cosmetic, fine chemical and food & beverage processes. The valve is available in a dome loaded version.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "P130K/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "new": "new",
+        "link": "http://www.valsteam.com/zArchives/Products/341/Files/6-25b-e-p130k-sanitary-pressure-reducing-valve-dn-08-20-bpe-din-iso.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          { "feat": "Sizes", "desc": "1/2” to 3/4” – DN 08 to DN 20" },
+          {
+            "feat": "Connections",
+            "desc": "ASME BPE, DIN and ISO clamp ferrules or tube weld (ETO) ends"
+          },
+          { "feat": "Max. Upstream pressure", "desc": "16 bar" },
+          { "feat": "Flow rate coefficients", "desc": "Kvs 0,7 to 1,3" },
+          { "feat": "Regulating range", "desc": "0,2 to 8 bar" }
+        ]
+      }
+    },
+    {
+      "yaw": -0.83,
+      "pitch": 0.07,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "P130J",
+      "description": "The ADCA P130J series direct acting, spring-loaded diaphragm sensing, balanced plug pressure reducing valves are designed for use with clean air, oxygen and other gases or liquids compatible with the construction materials and valve design. Specifically designed for the high purity gas systems found in the pharmaceutical, cosmetic, fine chemical and food & beverage processes.The valve is available in a dome loaded version.",
+
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "P130J/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "new": "new",
+        "link": "http://www.valsteam.com/zArchives/Products/342/Files/6-25c-e-p130j-sanitary-pressure-reducing-valve-dn-08-25-bpe-din-iso.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          { "feat": "Sizes", "desc": "1/2” to 1” – DN 08 to DN 25" },
+          {
+            "feat": "Connections",
+            "desc": "ASME BPE, DIN and ISO clamp ferrules or tube weld (ETO) ends"
+          },
+          { "feat": "Max. Allowable pressure", "desc": "-" },
+          { "feat": "Max. Upstream pressure", "desc": "16 bar" },
+          { "feat": "Flow rate coefficients", "desc": "Kvs 1,7 to 2,4" },
+          { "feat": "Regulating range", "desc": "0,2 to 8 bar" }
+        ]
+      }
+    },
+    {
+      "yaw": -0.77,
+      "pitch": 0.07,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "P130H",
+      "description": "The ADCA P130H series direct acting, spring-loaded diaphragm sensing, balanced plug pressure reducing valves are designed for use with clean air, oxygen and other gases or liquids compatible with the construction materials and valve design. Specifically designed for the high purity gas systems found in the pharmaceutical, cosmetic, fine chemical and food & beverage processes. The valve is available in a dome loaded version.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "P130H/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "new": "new",
+        "link": "http://www.valsteam.com/zArchives/Products/113/Files/6-25d-e-p130h-sanitary-pressure-reducing-valve-dn-25-bpe-din-iso.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          { "feat": "Sizes", "desc": "1” – DN 25" },
+          {
+            "feat": "Connections",
+            "desc": "ASME BPE, DIN and ISO clamp ferrules or tube weld (ETO) ends"
+          },
+          { "feat": "Max. Upstream pressure", "desc": "16 bar" },
+          { "feat": "Flow rate coefficients", "desc": "Kvs 3,2 to 4,2" },
+          { "feat": "Regulating range", "desc": "0,2 to 8 bar" }
+        ]
+      }
+    },
+    {
+      "yaw": -0.69,
+      "pitch": 0.19,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "P130G",
+      "description": "The ADCA P130G series direct acting, spring-loaded diaphragm sensing, balanced plug pressure reducing valves are designed for use with clean air, oxygen and other gases or liquids compatible with the construction materials and valve design. This valve is specifically designed for the high purity gas systems found in the pharmaceutical, cosmetic, fine chemical and food & beverage processes. The valve is available in a dome-loaded version.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "P130G/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/112/Files/6-25e-e-p130g-sanitary-pressure-reducing-valve-dn-32-40-bpe-din-iso.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "\r\nStainless steel" },
+          { "feat": "Sizes", "desc": "11/2” – DN 32 and DN 40" },
+          {
+            "feat": "Connections",
+            "desc": "ASME BPE, DIN and ISO clamp ferrules or tube weld (ETO) ends"
+          },
+          { "feat": "Max. Upstream pressure", "desc": "16 bar" },
+          { "feat": "Flow rate coefficients", "desc": "\r\nKvs 4,2 to 6,3" },
+          { "feat": "Regulating range", "desc": "0,2 to 8 bar" }
+        ]
+      }
+    },
+    {
+      "yaw": -0.76,
+      "pitch": 0.33,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "P161",
+      "description": "The ADCAPure P161 is a series of angle design direct acting diaphragm sensing pressure reducing valves. These regulators, available with spring or dome-loading, are designed for use with clean steam, compressed air, water and other gases or liquids compatible with the construction materials and valve design.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "P161/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "new": "new",
+        "link": "http://www.valsteam.com/zArchives/Products/372/Files/6-36-e-p161-sanitary-pressure-reducing-valve-dn15-50-bpe-din-iso.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          { "feat": "Sizes", "desc": "1/2” to 2” – DN 15 to 50" },
+          {
+            "feat": "Connections",
+            "desc": "ASME BPE, DIN and ISO clamp ferrules or tube weld (ETO) ends"
+          },
+          { "feat": "Max. Upstream pressure", "desc": "8 bar" },
+          { "feat": "Flow rate coefficients", "desc": "Kvs 1,6 to 19,8" },
+          { "feat": "Regulating range", "desc": "0,3 to 5 bar" }
+        ]
+      }
+    },
+    {
+      "yaw": -0.89,
+      "pitch": 0.3,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "P173",
+      "description": "The ADCA P173 series direct acting, spring-loaded diaphragm sensing, pressure reducing valves are designed for use with clean steam, compressed air, water and other gases or liquids compatible with the construction materials.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "P173/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/118/Files/6-34-e-p173-sanitary-pressure-reducing-valve-dn-32-50-bpe-din-iso.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          { "feat": "Sizes", "desc": "11/2” to 2” – DN 32 to DN 50" },
+          {
+            "feat": "Connections",
+            "desc": "ASME BPE, DIN and ISO clamp ferrules"
+          },
+          { "feat": "Max. Upstream pressure", "desc": "8 bar" },
+          { "feat": "Flow rate coefficients", "desc": "Kvs 5,5 or 8,5" },
+          { "feat": "Regulating range", "desc": "0,8 to 5 bar" }
+        ]
+      }
+    },
+    {
+      "yaw": -0.63,
+      "pitch": -0.04,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "BKR2",
+      "description": "The ADCAPure BKR2 series of tank blanketing pressure reducing valve designed for millibar control in applications such as tank storage blanketing systems. Used to prevent and protect against explosion, control product contamination, reduce evaporation losses or internal tank corrosion and to prevent vacuum condition.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "BKR2/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/34/Files/6-45-e-bkr2-low-pressure-blanketing-regulator-dn-25.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          { "feat": "Sizes", "desc": "1” – DN 25" },
+          {
+            "feat": "Connections",
+            "desc": "ASME BPE, DIN and ISO clamp ferrules\r\nFlanged EN 1092-1 PN 16"
+          },
+          { "feat": "Max. Upstream pressure", "desc": "12 bar" },
+          { "feat": "Regulating range", "desc": "5 to 4000 mbar" }
+        ]
+      }
+    },
+    {
+      "yaw": -0.3,
+      "pitch": 0.02,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "V928",
+      "description": "The V928 are two- or three-way hygienic control valves with angle or in-line connections, specially designed for the food, chemical, pharmaceutical and cosmetic industries. The valves are available with pneumatic diaphragm actuators and have been developed to ensure accurate control in any process condition.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "V928/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/164/Files/6-68-e-pv928-hygienic-pneumatic-control-valve-dn-15-100-din.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          { "feat": "Sizes", "desc": "DN 15 to DN 100" },
+          {
+            "feat": "Connections",
+            "desc": "DIN threads, clamp ferrules or tube weld (ETO) ends"
+          },
+          { "feat": "PMO", "desc": "13 bar @ 38ºC" },
+          { "feat": "TMO", "desc": "170 ºC" },
+          { "feat": "Flow rate coefficients", "desc": "Kvs 0,1 to 136,7" },
+          { "feat": "Rating", "desc": "PN 16" }
+        ]
+      }
+    },
+    {
+      "yaw": -0.45,
+      "pitch": 0.4,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "V926A",
+      "description": "The V926A are two-way aseptic control valves with angle connections, specially designed for the food, chemical, pharmaceutical and cosmetic industries. The valves are available with pneumatic diaphragm actuators and have been developed to ensure accurate control in any process condition.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "V926A-PA205/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/162/Files/6-65-e-pv926a-aseptic-control-valve-dn15-50-bpe.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "\r\nStainless steel" },
+          { "feat": "Sizes", "desc": "1/2” to 2”" },
+          {
+            "feat": "Connections",
+            "desc": "ASME BPE clamp ferrules or tube weld (ETO) ends"
+          },
+          { "feat": "PMO", "desc": "13 bar @ 38ºC" },
+          { "feat": "TMO", "desc": "170 ºC" },
+          { "feat": "Flow rate coefficients", "desc": "Kvs 0,1 to 34,7" },
+          { "feat": "Rating", "desc": "PN 16" }
+        ]
+      }
+    },
+    {
+      "yaw": -0.26,
+      "pitch": 0.36,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "V926H",
+      "description": "The V926H are two-way hygienic control valves with angle connections, specially designed for the food, chemical, pharmaceutical and cosmetic industries. The valves are available with pneumatic diaphragm actuators and have been developed to ensure accurate control in any process condition.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "V926H/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/163/Files/6-60-e-pv926h-hygienic-pneumatic-control-valve-dn-15-100-bpe.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          { "feat": "Sizes", "desc": "1/2” to 4”" },
+          {
+            "feat": "Connections",
+            "desc": "ASME BPE clamp ferrules or tube weld (ETO) ends"
+          },
+          { "feat": "PMO", "desc": "13 bar @ 38ºC" },
+          { "feat": "TMO", "desc": "170 ºC" },
+          { "feat": "Flow rate coefficients", "desc": "Kvs 0,1 to 136,7" },
+          { "feat": "Rating", "desc": "PN 16" }
+        ]
+      }
+    },
+    {
+      "yaw": 0.09,
+      "pitch": 0.22,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "SRV6",
+      "description": "The ADCAPure SRV6 series aseptic safety relief valves with angle type connections are designed for use with clean steam, air, water and other gases and liquids compatible with the construction materials. Main applications are overpressure protection on steam equipment, pressure vessels and pipelines, particularly within the food, beverage and pharmaceutical industries.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "SRV6/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/196/Files/6-55-e-srv6-aseptic-safety-relief-valve-bpe-din-iso.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          {
+            "feat": "Sizes",
+            "desc": "3/4” x 1” to 11/2” x 2”\r\nDN 20 x 25 to DN 40 x 50"
+          },
+          { "feat": "Connections", "desc": "ASME BPE and DIN clamp ferrules" },
+          { "feat": "PMO", "desc": "16 bar" },
+          { "feat": "TMO", "desc": "180 ºC" }
+        ]
+      }
+    },
+    {
+      "yaw": 0.41,
+      "pitch": 0.18,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "SWS",
+      "description": "The SWS sanitary sight glasses are designed to monitor liquid flow in any direction. Sight glasses (or flow indicators) are usually employed to detect either the presence or absence of fluid flow, turbulence, colour, etc. They are specially recommended for high purity applications.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "SWS/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/200/Files/6-110-e-sws-sanitary-sight-glass-dn-15-100-bpe.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "\r\nStainless steel" },
+          { "feat": "Sizes", "desc": "1/2” to 4”" },
+          { "feat": "Connections", "desc": "ASME BPE clamp ferrules" },
+          { "feat": "PMO", "desc": "20 bar" },
+          { "feat": "TMO", "desc": "200 ºC" }
+        ]
+      }
+    },
+    {
+      "yaw": 0.54,
+      "pitch": 0.18,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "SRT10H",
+      "description": "The SRT10 all stainless steel disc check valve has a compact design and is specially designed for use with clean steam, hot condensate and other process fluid applications. They are particularly recommended for high purity applications.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "STR10H/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/195/Files/6-115-e-srt10-sanitary-check-valves-dn-15-100-bpe.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          { "feat": "Sizes", "desc": "1/2” to 4”" },
+          {
+            "feat": "Connections",
+            "desc": "ASME BPE clamp ferrules or tube weld (ETO) ends"
+          },
+          { "feat": "TMO", "desc": "200 ºC" },
+          { "feat": "Rating", "desc": "PN 10" }
+        ]
+      }
+    },
+    {
+      "yaw": 0.45,
+      "pitch": 0.42,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "M3H",
+      "description": "The ADCAPure M3H three-piece body ball valves are isolating valves designed for use with clean steam, condensate and other gases and liquids used in high purity and aseptic processes. Mainly designed for the pharmaceutical, biotech, semiconductor, cosmetics, fine chemical, food and beverage industries.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "M3H/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/285/Files/6-94-e-m3h-three-piece-hygienic-ball-valve-dn10-50-din.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          { "feat": "Sizes", "desc": "1/2” to 2” – DN 10 to DN 50" },
+          { "feat": "PMO", "desc": "220 ºC" },
+          { "feat": "Rating", "desc": "PN 100" }
+        ]
+      }
+    },
+    {
+      "yaw": 0.63,
+      "pitch": 0.43,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "M3HP",
+      "description": "The ADCAPure M3HP high purity three-piece body ball valves are isolating valves designed for use with clean steam, condensate and other gases and liquids used in high purity and aseptic processes. Mainly designed for the pharmaceutical, biotech, semiconductor, cosmetics, fine chemical, food and beverage industries.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "M3HP/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Library/Ficheiros/6.91.E.M3HP%20Three%20piece%20high%20purity%20ball%20valve%20DN10-50-DIN.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "Stainless steel" },
+          { "feat": "Sizes", "desc": "21/2” to 4” – DN 15 to DN 50" },
+          { "feat": "PMO", "desc": "220 ºC" },
+          { "feat": "Rating", "desc": "PN100" }
+        ]
+      }
+    },
+    {
+      "yaw": 0.76,
+      "pitch": 0.27,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "S11",
+      "description": "When wet steam is used in sterilization, moisture in suspension reduces the heat transfer efficiency, and the validity of the sterilization process can be compromised. The ADCAPure S11 series centrifugal separators remove moisture from steam pipelines. Steam passes through the separator and the particles with a heavier specific gravity are separated. Condensate collected at the bottom of the separator must be automatically drained through a suitable steam trap.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "S11/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/176/Files/6-79b-e-s11-clean-steam-humidity-separator-dn-15-50.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "\r\nStainless steel" },
+          { "feat": "Sizes", "desc": "1/2” to 2”" },
+          { "feat": "Connections", "desc": "ASME BPE clamp ferrules" },
+          { "feat": "Max. Allowable pressure", "desc": "10 bar" },
+          { "feat": "Max. Related temperature", "desc": "\r\n200 ºC" }
+        ]
+      }
+    },
+    {
+      "yaw": 0.88,
+      "pitch": 0.41,
+      "cameraDuration": 1000,
+      "template": "modalViewer3d",
+      "title": "ISC20",
+      "description": "The ISC20I high efficiency filters are used to remove contaminated particles from gases such as steam and compressed air. The optimized construction of these units offers high flow rates with minimum pressure loss.  All sizes are built in two halves, joined by a sanitary clamp ferrule, with drain connection on the bottom. The replaceable filter elements are made of sintered austenitic stainless steel.",
+      "viewerSource": {
+        "type": "SceneDataSource",
+        "url": "IS20I/",
+        "path": "data.json",
+        "enableWireframe": false
+      },
+      "modelData": {
+        "link": "http://www.valsteam.com/zArchives/Products/93/Files/6-86b-e-isc20i-culinary-steam-filters.pdf",
+        "email": "adca.marketing@valsteam.com",
+        "perspectives": [
+          { "image": "logo_3decide.png" },
+          { "image": "logo_alivevision.png" }
+        ],
+        "features": [
+          { "feat": "Material", "desc": "\r\nStainless steel" },
+          { "feat": "Sizes", "desc": "1/4” to 2” – DN 10 to DN 80" },
+          {
+            "feat": "Connections",
+            "desc": "Female threaded ISO 7 Rp or NPT\r\nFlanged EN PN 16\r\nFlanged ASME Class 150"
+          },
+          { "feat": "PMO", "desc": "10 bar @ 200 ºC" }
+        ]
+      }
+    }
+  ]
+}
