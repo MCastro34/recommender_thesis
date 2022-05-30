@@ -39,12 +39,12 @@ def get_indices(df):
 
 
 def calculate_similarities(item, indices, cosine_sim):
-    target_movie_index = indices[item]
+    target_index = indices[item]
     similarity_scores = pd.DataFrame(
-        cosine_sim[target_movie_index], columns=["score"])
-    movie_indices = similarity_scores.sort_values(
+        cosine_sim[target_index], columns=["score"])
+    item_indices = similarity_scores.sort_values(
         "score", ascending=False)[0:11].index
-    return movie_indices
+    return item_indices
 
 
 #f = open('./dataset/data_en.json', 'r', encoding='utf-8')
