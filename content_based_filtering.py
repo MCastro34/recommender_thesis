@@ -1,7 +1,6 @@
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
-import json
 
 
 def content_based_filtering(list, item):
@@ -9,8 +8,8 @@ def content_based_filtering(list, item):
     tfidf_matrix = vectorize_matrix(df)
     cosine_sim = calculate_cosine_similarity(tfidf_matrix)
     indices = get_indices(df)
-    movie_indices = calculate_similarities(item, indices, cosine_sim)
-    return df['title'].iloc[movie_indices]
+    rec_indices = calculate_similarities(item, indices, cosine_sim)
+    return df['title'].iloc[rec_indices]
 
 
 def prepare_data_frame(list):
@@ -45,9 +44,3 @@ def calculate_similarities(item, indices, cosine_sim):
     item_indices = similarity_scores.sort_values(
         "score", ascending=False)[0:11].index
     return item_indices
-
-
-#f = open('./dataset/data_en.json', 'r', encoding='utf-8')
-#data = json.load(f)
-# f.close()
-#print(content_based_filtering(data["modalHotspots"], "SRV6"))
